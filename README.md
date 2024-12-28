@@ -1,2 +1,2 @@
-# THE-DEFINITIVE-qBittorrent-NordVPN-Docker-Simple-Setup-Guide 2024
-This is the definitive simple setup guide for qBittorrent + NordVPN via Docker, based on extensive troubleshooting and real-world testing , my goal with this repository was mainly to make a log of all the errors and problems that came up whilst I was attempting to set qbit up for myself through nord/openvpn in a docker as to not disturb my normal network traffic. If it is helpful to even one other person than it is worth my while to make this. Happy sailing. 🚀
+# THIS IS A PAGE TO LOG MY SERVER BUILD AND LEARNING PROGRESS I GUESS
+ If it is helpful to even one other person than it is worth my while to make this. Happy sailing. 🚀
